@@ -20,3 +20,7 @@ Contents
 
    usage
    api
+
+Test
+---------
+hoge
